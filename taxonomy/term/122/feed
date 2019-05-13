@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://www.psychojellyfish.com"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Psycho Jellyfish - Lost Radio</title>
+ <link>https://www.psychojellyfish.com/lost-radio</link>
+ <description> Prepare yourself for a brain damaged trip through the stars with a cast of kooky characters and unexpected delights at every turn. This is our completely improvised college radio show which ran for 3 years in Alfred, NY, now edited down and spiced up with new sounds to intensify your listening pleasure. Enjoy!
+ </description>
+ <language>en</language>
+<item>
+ <title>S2E10 - Weebly Woo Weebly Woo</title>
+ <link>https://www.psychojellyfish.com/content/s2e10-weebly-woo-weebly-woo</link>
+ <description>&lt;div class=&quot;field field-name-field-show field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Show: &lt;/h3&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;&lt;a href=&quot;/lost-radio&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Lost Radio&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt; &lt;p&gt;&lt;a href=&quot;http://psychojellyfish.com/content/s2e10-weebly-woo-weebly-woo&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;media-image&quot; height=&quot;264&quot; width=&quot;612&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.psychojellyfish.com/sites/default/files/WeeblyWooWeeblyWoo_0.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;On the Season 2 finale our intrepid heroes land on a watery world only to find themselves the guest of Ziggy himself and must endure the unedning onslaught of Cookie Monsters and Seagulls.  &lt;/p&gt;
+&lt;p&gt;Art by Michael Chernoff &lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #333333;&quot;&gt;&lt;span style=&quot;font-family: Georgia, &#039;Times New Roman&#039;, Times, serif; font-size: 14px; line-height: 22.4px; background-color: rgba(255, 255, 255, 0.901961);&quot;&gt;Additional sound effects courtesy of &lt;/span&gt;&lt;span style=&quot;color: #33cccc;&quot;&gt;&lt;a href=&quot;http://www.freesound.org/&quot; style=&quot;color: #008eb3; font-family: Georgia, &#039;Times New Roman&#039;, Times, serif; font-size: 14px; line-height: 22.4px; background-color: rgba(255, 255, 255, 0.901961);&quot;&gt;&lt;span style=&quot;color: #33cccc;&quot;&gt;www.freesound.org&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;&lt;span style=&quot;font-family: Georgia, &#039;Times New Roman&#039;, Times, serif; font-size: 14px; line-height: 22.4px; background-color: rgba(255, 255, 255, 0.901961);&quot;&gt;&lt;span style=&quot;color: #33cccc;&quot;&gt; &lt;/span&gt;contributors: halleck/ noise-inc/ inchadney/ jeseid/ cgeffex/ justkiddink/ timmy-h123/ rmutt&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-episode-mp3 field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;
+&lt;div class=&quot;jp-audio&quot;&gt;
+  &lt;div class=&quot;jp-type-playlist&quot;&gt;
+    &lt;div id=&quot;jplayer-node-384-field-episode-mp3-1557704861&quot; class=&quot;jp-jplayer&quot;&gt;&lt;/div&gt;
+    &lt;div id=&quot;jplayer-node-384-field-episode-mp3-1557704861_interface&quot; class=&quot;jp-interface&quot;&gt;
+            &lt;ul class=&quot;jp-controls&quot;&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-play&quot; tabindex=&quot;1&quot;&gt;play&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-pause&quot; tabindex=&quot;1&quot;&gt;pause&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-stop&quot; tabindex=&quot;1&quot;&gt;stop&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-mute&quot; tabindex=&quot;1&quot;&gt;mute&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-unmute&quot; tabindex=&quot;1&quot;&gt;unmute&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+      
+      &lt;div class=&quot;jp-progress&quot;&gt;
+        &lt;div class=&quot;jp-seek-bar&quot;&gt;
+          &lt;div class=&quot;jp-play-bar&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;jp-volume-bar&quot;&gt;
+        &lt;div class=&quot;jp-volume-bar-value&quot;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;jp-current-time&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;jp-duration&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div id=&quot;jplayer-node-384-field-episode-mp3-1557704861_playlist&quot; class=&quot;jp-playlist&quot;&gt;
+              &lt;ul&gt;&lt;li class=&quot;first jp-playlist-first last jp-playlist-last&quot;&gt;&lt;a href=&quot;https://psychojellyfish.s3.amazonaws.com/s3fs-public/episodes/LR_S2E10_WeeblyWooWeeblyWoo_Redux_final.mp3&quot; id=&quot;jplayer-node-384-field-episode-mp3-1557704861_item_0&quot; tabindex=&quot;1&quot;&gt;Lost Radio: Weebly Woo Weebly Woo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 17 Sep 2015 03:33:16 +0000</pubDate>
+ <dc:creator>Lucas</dc:creator>
+ <guid isPermaLink="false">384 at https://www.psychojellyfish.com</guid>
+</item>
+<item>
+ <title>S2E9 - Gabbit</title>
+ <link>https://www.psychojellyfish.com/content/s2e9-gabbit</link>
+ <description>&lt;div class=&quot;field field-name-field-show field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Show: &lt;/h3&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;&lt;a href=&quot;/lost-radio&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Lost Radio&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt; &lt;p&gt;&lt;a href=&quot;http://psychojellyfish.com/content/s2e9-gabbit&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;media-image&quot; height=&quot;264&quot; width=&quot;612&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.psychojellyfish.com/sites/default/files/Gabbit_0.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;em&gt;Spaghetti&lt;/em&gt; crew plays host to a cult of followers eager to be in their presence. While several of the ship&#039;s morally ambiguous characters take advantage of these follower&#039;s undying devotion, a new threat of the buzzing and stinging variety has arrived. And who comes just in time to eat away their problems but the Gabbit himself. &lt;/p&gt;
+&lt;p&gt;Art by Sarah Hartman&lt;/p&gt;
+&lt;p&gt;Additional sound effects courtesy of &lt;a href=&quot;http://www.freesound.org&quot;&gt;www.freesound.org&lt;/a&gt; contributors: halleck/ noise-inc/ inchadney/ benboncan/ timmy-h123/ litruv/ soundmary/ trautwein&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-episode-mp3 field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;
+&lt;div class=&quot;jp-audio&quot;&gt;
+  &lt;div class=&quot;jp-type-playlist&quot;&gt;
+    &lt;div id=&quot;jplayer-node-363-field-episode-mp3-1557704861&quot; class=&quot;jp-jplayer&quot;&gt;&lt;/div&gt;
+    &lt;div id=&quot;jplayer-node-363-field-episode-mp3-1557704861_interface&quot; class=&quot;jp-interface&quot;&gt;
+            &lt;ul class=&quot;jp-controls&quot;&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-play&quot; tabindex=&quot;1&quot;&gt;play&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-pause&quot; tabindex=&quot;1&quot;&gt;pause&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-stop&quot; tabindex=&quot;1&quot;&gt;stop&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-mute&quot; tabindex=&quot;1&quot;&gt;mute&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-unmute&quot; tabindex=&quot;1&quot;&gt;unmute&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+      
+      &lt;div class=&quot;jp-progress&quot;&gt;
+        &lt;div class=&quot;jp-seek-bar&quot;&gt;
+          &lt;div class=&quot;jp-play-bar&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;jp-volume-bar&quot;&gt;
+        &lt;div class=&quot;jp-volume-bar-value&quot;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;jp-current-time&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;jp-duration&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div id=&quot;jplayer-node-363-field-episode-mp3-1557704861_playlist&quot; class=&quot;jp-playlist&quot;&gt;
+              &lt;ul&gt;&lt;li class=&quot;first jp-playlist-first last jp-playlist-last&quot;&gt;&lt;a href=&quot;https://psychojellyfish.s3.amazonaws.com/s3fs-public/episodes/LR_S2E9_Gabbit_Redux_final.mp3&quot; id=&quot;jplayer-node-363-field-episode-mp3-1557704861_item_0&quot; tabindex=&quot;1&quot;&gt;Lost Radio: Gabbit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 15 Jun 2015 22:15:28 +0000</pubDate>
+ <dc:creator>Lucas</dc:creator>
+ <guid isPermaLink="false">363 at https://www.psychojellyfish.com</guid>
+</item>
+<item>
+ <title>S2E8 - Frankenstein VS the Critter Ninjas plus Moose</title>
+ <link>https://www.psychojellyfish.com/content/s2e8-frankenstein-vs-critter-ninjas-plus-moose</link>
+ <description>&lt;div class=&quot;field field-name-field-show field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Show: &lt;/h3&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;&lt;a href=&quot;/lost-radio&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Lost Radio&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt; &lt;p&gt;&lt;a href=&quot;http://psychojellyfish.com/content/s2e8-frankenstein-vs-critter-ninjas-plus-moose&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;media-image&quot; height=&quot;264&quot; width=&quot;612&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.psychojellyfish.com/sites/default/files/FranksteinvsCritters_0.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sometimes there&#039;s a moment when Dr. Lorre thinks things like reanimating the Taco Bell employee from the ship&#039;s sublevels would be a grand idea. These ideas mostly go poorly, but perhaps this time they might provide our heroes with an edge over some invasive Critters? &lt;/p&gt;
+&lt;p&gt;Art by Sarah Hartman&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 13.0080003738403px; line-height: 20.0063037872314px;&quot;&gt;Additional sound effects courtesy of &lt;a href=&quot;http://www.freesound.org&quot;&gt;www.freesound.org&lt;/a&gt; contributors: halleck/ esperri/ skydan/ lonemonk&lt;/span&gt;&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-episode-mp3 field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;
+&lt;div class=&quot;jp-audio&quot;&gt;
+  &lt;div class=&quot;jp-type-playlist&quot;&gt;
+    &lt;div id=&quot;jplayer-node-360-field-episode-mp3-1557704861&quot; class=&quot;jp-jplayer&quot;&gt;&lt;/div&gt;
+    &lt;div id=&quot;jplayer-node-360-field-episode-mp3-1557704861_interface&quot; class=&quot;jp-interface&quot;&gt;
+            &lt;ul class=&quot;jp-controls&quot;&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-play&quot; tabindex=&quot;1&quot;&gt;play&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-pause&quot; tabindex=&quot;1&quot;&gt;pause&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-stop&quot; tabindex=&quot;1&quot;&gt;stop&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-mute&quot; tabindex=&quot;1&quot;&gt;mute&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-unmute&quot; tabindex=&quot;1&quot;&gt;unmute&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+      
+      &lt;div class=&quot;jp-progress&quot;&gt;
+        &lt;div class=&quot;jp-seek-bar&quot;&gt;
+          &lt;div class=&quot;jp-play-bar&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;jp-volume-bar&quot;&gt;
+        &lt;div class=&quot;jp-volume-bar-value&quot;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;jp-current-time&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;jp-duration&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div id=&quot;jplayer-node-360-field-episode-mp3-1557704861_playlist&quot; class=&quot;jp-playlist&quot;&gt;
+              &lt;ul&gt;&lt;li class=&quot;first jp-playlist-first last jp-playlist-last&quot;&gt;&lt;a href=&quot;https://psychojellyfish.s3.amazonaws.com/s3fs-public/episodes/LR_S2E8_FrankensteinVsTheCritterNinjas%2BMoose_Redux_final.mp3&quot; id=&quot;jplayer-node-360-field-episode-mp3-1557704861_item_0&quot; tabindex=&quot;1&quot;&gt;Last Coin at the Arcade: Frankenstein VS the Critter Ninjas plus Moose&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 09 Jun 2015 01:23:34 +0000</pubDate>
+ <dc:creator>Lucas</dc:creator>
+ <guid isPermaLink="false">360 at https://www.psychojellyfish.com</guid>
+</item>
+<item>
+ <title>S2E7 - Alone with Others</title>
+ <link>https://www.psychojellyfish.com/content/s2e7-alone-others</link>
+ <description>&lt;div class=&quot;field field-name-field-show field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Show: &lt;/h3&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;&lt;a href=&quot;/lost-radio&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Lost Radio&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt; &lt;p&gt;&lt;a href=&quot;http://psychojellyfish.com/content/s2e7-alone-others&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;media-image&quot; height=&quot;264&quot; width=&quot;612&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.psychojellyfish.com/sites/default/files/AlonewithOthers_0.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;When his crew has gone missing Gus has no choice but to make friends with his would be assassin and an amorphous life form bent on impersonating his friends. &lt;/p&gt;
+&lt;p&gt;Art by Elizabeth DeFiore&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 13.0080003738403px; line-height: 20.0063037872314px;&quot;&gt;Additional sound effects courtesy of &lt;a href=&quot;http://www.freesound.org&quot;&gt;www.freesound.org&lt;/a&gt; contributor: bennychico11&lt;/span&gt;&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-episode-mp3 field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;
+&lt;div class=&quot;jp-audio&quot;&gt;
+  &lt;div class=&quot;jp-type-playlist&quot;&gt;
+    &lt;div id=&quot;jplayer-node-358-field-episode-mp3-1557704861&quot; class=&quot;jp-jplayer&quot;&gt;&lt;/div&gt;
+    &lt;div id=&quot;jplayer-node-358-field-episode-mp3-1557704861_interface&quot; class=&quot;jp-interface&quot;&gt;
+            &lt;ul class=&quot;jp-controls&quot;&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-play&quot; tabindex=&quot;1&quot;&gt;play&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-pause&quot; tabindex=&quot;1&quot;&gt;pause&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-stop&quot; tabindex=&quot;1&quot;&gt;stop&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-mute&quot; tabindex=&quot;1&quot;&gt;mute&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-unmute&quot; tabindex=&quot;1&quot;&gt;unmute&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+      
+      &lt;div class=&quot;jp-progress&quot;&gt;
+        &lt;div class=&quot;jp-seek-bar&quot;&gt;
+          &lt;div class=&quot;jp-play-bar&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;jp-volume-bar&quot;&gt;
+        &lt;div class=&quot;jp-volume-bar-value&quot;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;jp-current-time&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;jp-duration&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div id=&quot;jplayer-node-358-field-episode-mp3-1557704861_playlist&quot; class=&quot;jp-playlist&quot;&gt;
+              &lt;ul&gt;&lt;li class=&quot;first jp-playlist-first last jp-playlist-last&quot;&gt;&lt;a href=&quot;https://psychojellyfish.s3.amazonaws.com/s3fs-public/episodes/LR_S2E7_AloneWithOthers_Redux_final.mp3&quot; id=&quot;jplayer-node-358-field-episode-mp3-1557704861_item_0&quot; tabindex=&quot;1&quot;&gt;Lost Radio: Alone with Others&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 01 Jun 2015 22:21:10 +0000</pubDate>
+ <dc:creator>Lucas</dc:creator>
+ <guid isPermaLink="false">358 at https://www.psychojellyfish.com</guid>
+</item>
+<item>
+ <title>S2E6 - Boss Fight</title>
+ <link>https://www.psychojellyfish.com/content/s2e6-boss-fight</link>
+ <description>&lt;div class=&quot;field field-name-field-show field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Show: &lt;/h3&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;&lt;a href=&quot;/lost-radio&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Lost Radio&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt; &lt;p&gt;&lt;a href=&quot;http://psychojellyfish.com/content/s2e6-boss-fight#&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;media-image&quot; height=&quot;264&quot; width=&quot;612&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.psychojellyfish.com/sites/default/files/BossFight_0.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The crew has managed to corner the Master of Parodies, Satrick Pewart. It&#039;s been a while since he&#039;s met one of the &lt;em&gt;Spagehetti&lt;/em&gt; members face-to-face, but it&#039;s obvious he feels he has the upper hand! Gus, Ned, Sean, Lorre, and Walter will draw upon all their wits and strengths to stop him, but perhaps it will take the aid of one lover of keys? &lt;/p&gt;
+&lt;p&gt;Art by David Halstead&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 13.0080003738403px; line-height: 20.0063037872314px;&quot;&gt;Additional sound effects courtesy of &lt;a href=&quot;http://www.freesound.org&quot;&gt;www.freesound.org&lt;/a&gt; contributors: halleck/ datasoundsample/ joly1/ bennychico11/ jeseid77/ funnyman374/ felix-blume/ finalcrystine&lt;/span&gt;&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-episode-mp3 field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;
+&lt;div class=&quot;jp-audio&quot;&gt;
+  &lt;div class=&quot;jp-type-playlist&quot;&gt;
+    &lt;div id=&quot;jplayer-node-356-field-episode-mp3-1557704861&quot; class=&quot;jp-jplayer&quot;&gt;&lt;/div&gt;
+    &lt;div id=&quot;jplayer-node-356-field-episode-mp3-1557704861_interface&quot; class=&quot;jp-interface&quot;&gt;
+            &lt;ul class=&quot;jp-controls&quot;&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-play&quot; tabindex=&quot;1&quot;&gt;play&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-pause&quot; tabindex=&quot;1&quot;&gt;pause&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-stop&quot; tabindex=&quot;1&quot;&gt;stop&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-mute&quot; tabindex=&quot;1&quot;&gt;mute&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-unmute&quot; tabindex=&quot;1&quot;&gt;unmute&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+      
+      &lt;div class=&quot;jp-progress&quot;&gt;
+        &lt;div class=&quot;jp-seek-bar&quot;&gt;
+          &lt;div class=&quot;jp-play-bar&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;jp-volume-bar&quot;&gt;
+        &lt;div class=&quot;jp-volume-bar-value&quot;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;jp-current-time&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;jp-duration&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div id=&quot;jplayer-node-356-field-episode-mp3-1557704861_playlist&quot; class=&quot;jp-playlist&quot;&gt;
+              &lt;ul&gt;&lt;li class=&quot;first jp-playlist-first last jp-playlist-last&quot;&gt;&lt;a href=&quot;https://psychojellyfish.s3.amazonaws.com/s3fs-public/episodes/LR_S2E6_BossFight_Redux_Final.mp3&quot; id=&quot;jplayer-node-356-field-episode-mp3-1557704861_item_0&quot; tabindex=&quot;1&quot;&gt;Lost Radio: Boss Fight&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 26 May 2015 01:43:44 +0000</pubDate>
+ <dc:creator>Lucas</dc:creator>
+ <guid isPermaLink="false">356 at https://www.psychojellyfish.com</guid>
+</item>
+<item>
+ <title>S2E5 - The Chase</title>
+ <link>https://www.psychojellyfish.com/content/s2e5-chase</link>
+ <description>&lt;div class=&quot;field field-name-field-show field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Show: &lt;/h3&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;&lt;a href=&quot;/lost-radio&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Lost Radio&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt; &lt;p&gt;&lt;a href=&quot;http://psychojellyfish.com/content/s2e5-chase&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;media-image&quot; height=&quot;264&quot; width=&quot;612&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.psychojellyfish.com/sites/default/files/TheChase_0.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As the Master of Parodies flees to his Death Egg our fearless heroes turn it into a song. It&#039;s all out heart stopping explosive action leading up to the final showdown with their arch nemesis. The chase is on!&lt;/p&gt;
+&lt;p&gt;Art by David Halstead&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-episode-mp3 field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;
+&lt;div class=&quot;jp-audio&quot;&gt;
+  &lt;div class=&quot;jp-type-playlist&quot;&gt;
+    &lt;div id=&quot;jplayer-node-349-field-episode-mp3-1557704861&quot; class=&quot;jp-jplayer&quot;&gt;&lt;/div&gt;
+    &lt;div id=&quot;jplayer-node-349-field-episode-mp3-1557704861_interface&quot; class=&quot;jp-interface&quot;&gt;
+            &lt;ul class=&quot;jp-controls&quot;&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-play&quot; tabindex=&quot;1&quot;&gt;play&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-pause&quot; tabindex=&quot;1&quot;&gt;pause&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-stop&quot; tabindex=&quot;1&quot;&gt;stop&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-mute&quot; tabindex=&quot;1&quot;&gt;mute&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-unmute&quot; tabindex=&quot;1&quot;&gt;unmute&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+      
+      &lt;div class=&quot;jp-progress&quot;&gt;
+        &lt;div class=&quot;jp-seek-bar&quot;&gt;
+          &lt;div class=&quot;jp-play-bar&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;jp-volume-bar&quot;&gt;
+        &lt;div class=&quot;jp-volume-bar-value&quot;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;jp-current-time&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;jp-duration&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div id=&quot;jplayer-node-349-field-episode-mp3-1557704861_playlist&quot; class=&quot;jp-playlist&quot;&gt;
+              &lt;ul&gt;&lt;li class=&quot;first jp-playlist-first last jp-playlist-last&quot;&gt;&lt;a href=&quot;https://psychojellyfish.s3.amazonaws.com/s3fs-public/episodes/LR_S2E5_TheChase_Redux_final.mp3&quot; id=&quot;jplayer-node-349-field-episode-mp3-1557704861_item_0&quot; tabindex=&quot;1&quot;&gt;Lost Radio: The Chase&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 04 May 2015 22:17:28 +0000</pubDate>
+ <dc:creator>Lucas</dc:creator>
+ <guid isPermaLink="false">349 at https://www.psychojellyfish.com</guid>
+</item>
+<item>
+ <title>S2E4 - Planet Fresno</title>
+ <link>https://www.psychojellyfish.com/content/s2e4-planet-fresno</link>
+ <description>&lt;div class=&quot;field field-name-field-show field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Show: &lt;/h3&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;&lt;a href=&quot;/lost-radio&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Lost Radio&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt; &lt;p&gt;&lt;a href=&quot;http://psychojellyfish.com/content/s2e4-planet-fresno&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;media-image&quot; height=&quot;264&quot; width=&quot;612&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.psychojellyfish.com/sites/default/files/PlanetFresno_0.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A historic battle is on the horizon as the crew of the &lt;em&gt;Spaghetti &lt;/em&gt;seek out new allies to confront the evil Satrick Pewart. Will a rebel band of former celebrities be enough? Will the Ramboninjaterminators be too much for our heroes? And just who is this puppet president Satrick Pewart has under his thumb? &lt;/p&gt;
+&lt;p&gt;Art by Lucas Wilson&lt;/p&gt;
+&lt;p&gt;Additional sound effects courtesy of &lt;a href=&quot;http://www.freesound.org&quot;&gt;www.freesound.org&lt;/a&gt; contributors: beatbed/ halleck/ slanesh/ lorenzosu/ inchadney/ bennychico/ jeseid/ greysound/ roachpowder/ finalcrystine/ ootlivan/ bolland/ qubodup/ trauwein.&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-episode-mp3 field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;
+&lt;div class=&quot;jp-audio&quot;&gt;
+  &lt;div class=&quot;jp-type-playlist&quot;&gt;
+    &lt;div id=&quot;jplayer-node-346-field-episode-mp3-1557704861&quot; class=&quot;jp-jplayer&quot;&gt;&lt;/div&gt;
+    &lt;div id=&quot;jplayer-node-346-field-episode-mp3-1557704861_interface&quot; class=&quot;jp-interface&quot;&gt;
+            &lt;ul class=&quot;jp-controls&quot;&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-play&quot; tabindex=&quot;1&quot;&gt;play&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-pause&quot; tabindex=&quot;1&quot;&gt;pause&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-stop&quot; tabindex=&quot;1&quot;&gt;stop&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-mute&quot; tabindex=&quot;1&quot;&gt;mute&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-unmute&quot; tabindex=&quot;1&quot;&gt;unmute&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+      
+      &lt;div class=&quot;jp-progress&quot;&gt;
+        &lt;div class=&quot;jp-seek-bar&quot;&gt;
+          &lt;div class=&quot;jp-play-bar&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;jp-volume-bar&quot;&gt;
+        &lt;div class=&quot;jp-volume-bar-value&quot;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;jp-current-time&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;jp-duration&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div id=&quot;jplayer-node-346-field-episode-mp3-1557704861_playlist&quot; class=&quot;jp-playlist&quot;&gt;
+              &lt;ul&gt;&lt;li class=&quot;first jp-playlist-first last jp-playlist-last&quot;&gt;&lt;a href=&quot;https://psychojellyfish.s3.amazonaws.com/s3fs-public/episodes/LR_S2E4_PlanetFresno_Redux_Final.mp3&quot; id=&quot;jplayer-node-346-field-episode-mp3-1557704861_item_0&quot; tabindex=&quot;1&quot;&gt;Lost Radio: Planet Fresno&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 28 Apr 2015 00:55:54 +0000</pubDate>
+ <dc:creator>Lucas</dc:creator>
+ <guid isPermaLink="false">346 at https://www.psychojellyfish.com</guid>
+</item>
+<item>
+ <title>S2E3 - Reminiscing at Warp Speed</title>
+ <link>https://www.psychojellyfish.com/content/s2e3-reminiscing-warp-speed</link>
+ <description>&lt;div class=&quot;field field-name-field-show field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Show: &lt;/h3&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;&lt;a href=&quot;/lost-radio&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Lost Radio&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt; &lt;p&gt;&lt;a href=&quot;http://psychojellyfish.com/content/s2e3-reminiscing-warp-speed&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;media-image&quot; height=&quot;264&quot; width=&quot;612&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.psychojellyfish.com/sites/default/files/ReminiscingAtWarpSpeed_0.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Our heroes encounter a Russian cosmonaut who wonders what&#039;s been going on. They give her their bext attempt to explain as they close the distance between them and Satrick Pewart. &lt;/p&gt;
+&lt;p&gt;Art by Charity Buckbee&lt;/p&gt;
+&lt;p&gt;Additional sound effects courtesy of &lt;a href=&quot;http://www.freesound.org&quot;&gt;www.freesound.org&lt;/a&gt; contributors: landschap3&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-episode-mp3 field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;
+&lt;div class=&quot;jp-audio&quot;&gt;
+  &lt;div class=&quot;jp-type-playlist&quot;&gt;
+    &lt;div id=&quot;jplayer-node-344-field-episode-mp3-1557704861&quot; class=&quot;jp-jplayer&quot;&gt;&lt;/div&gt;
+    &lt;div id=&quot;jplayer-node-344-field-episode-mp3-1557704861_interface&quot; class=&quot;jp-interface&quot;&gt;
+            &lt;ul class=&quot;jp-controls&quot;&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-play&quot; tabindex=&quot;1&quot;&gt;play&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-pause&quot; tabindex=&quot;1&quot;&gt;pause&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-stop&quot; tabindex=&quot;1&quot;&gt;stop&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-mute&quot; tabindex=&quot;1&quot;&gt;mute&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-unmute&quot; tabindex=&quot;1&quot;&gt;unmute&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+      
+      &lt;div class=&quot;jp-progress&quot;&gt;
+        &lt;div class=&quot;jp-seek-bar&quot;&gt;
+          &lt;div class=&quot;jp-play-bar&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;jp-volume-bar&quot;&gt;
+        &lt;div class=&quot;jp-volume-bar-value&quot;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;jp-current-time&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;jp-duration&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div id=&quot;jplayer-node-344-field-episode-mp3-1557704861_playlist&quot; class=&quot;jp-playlist&quot;&gt;
+              &lt;ul&gt;&lt;li class=&quot;first jp-playlist-first last jp-playlist-last&quot;&gt;&lt;a href=&quot;https://psychojellyfish.s3.amazonaws.com/s3fs-public/episodes/LR_S2E3_ReminiscingAtWarpSpeed_Redux_Final.mp3&quot; id=&quot;jplayer-node-344-field-episode-mp3-1557704861_item_0&quot; tabindex=&quot;1&quot;&gt;Lost Radio: Reminiscing at Warp Speed&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 20 Apr 2015 23:18:08 +0000</pubDate>
+ <dc:creator>Lucas</dc:creator>
+ <guid isPermaLink="false">344 at https://www.psychojellyfish.com</guid>
+</item>
+<item>
+ <title>S2E2 - The Floyd</title>
+ <link>https://www.psychojellyfish.com/content/s2e2-floyd</link>
+ <description>&lt;div class=&quot;field field-name-field-show field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Show: &lt;/h3&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;&lt;a href=&quot;/lost-radio&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Lost Radio&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt; &lt;p&gt;&lt;a href=&quot;http://psychojellyfish.com/content/s2e2-floyd&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;media-image&quot; height=&quot;264&quot; width=&quot;612&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.psychojellyfish.com/sites/default/files/TheFloyd_0.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: &#039;times new roman&#039;, times;&quot;&gt;As our heroes venture into a Pink Floyd album in search of Satrick Pewart they soon begin to wonder if the Master of Parodies has made fools of them once again. Can they keep themselves from getting lost in this realm of acid dream logic long enough to find the clues they need, or will the walls of sanity fall down around them? Also Ned kills a dolphin.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Art by David Halstead&lt;/p&gt;
+&lt;p&gt;Additional sound effects courtesy of &lt;a href=&quot;http://www.freesound.org&quot;&gt;www.freesound.org&lt;/a&gt; contributors: halleck/ chipfork/ jeseid/ abrez&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-episode-mp3 field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;
+&lt;div class=&quot;jp-audio&quot;&gt;
+  &lt;div class=&quot;jp-type-playlist&quot;&gt;
+    &lt;div id=&quot;jplayer-node-341-field-episode-mp3-1557704861&quot; class=&quot;jp-jplayer&quot;&gt;&lt;/div&gt;
+    &lt;div id=&quot;jplayer-node-341-field-episode-mp3-1557704861_interface&quot; class=&quot;jp-interface&quot;&gt;
+            &lt;ul class=&quot;jp-controls&quot;&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-play&quot; tabindex=&quot;1&quot;&gt;play&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-pause&quot; tabindex=&quot;1&quot;&gt;pause&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-stop&quot; tabindex=&quot;1&quot;&gt;stop&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-mute&quot; tabindex=&quot;1&quot;&gt;mute&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-unmute&quot; tabindex=&quot;1&quot;&gt;unmute&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+      
+      &lt;div class=&quot;jp-progress&quot;&gt;
+        &lt;div class=&quot;jp-seek-bar&quot;&gt;
+          &lt;div class=&quot;jp-play-bar&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;jp-volume-bar&quot;&gt;
+        &lt;div class=&quot;jp-volume-bar-value&quot;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;jp-current-time&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;jp-duration&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div id=&quot;jplayer-node-341-field-episode-mp3-1557704861_playlist&quot; class=&quot;jp-playlist&quot;&gt;
+              &lt;ul&gt;&lt;li class=&quot;first jp-playlist-first last jp-playlist-last&quot;&gt;&lt;a href=&quot;https://psychojellyfish.s3.amazonaws.com/s3fs-public/episodes/LR_S2E2_TheFloyd_Redux_Final.mp3&quot; id=&quot;jplayer-node-341-field-episode-mp3-1557704861_item_0&quot; tabindex=&quot;1&quot;&gt;Lost Radio: The Floyd&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 13 Apr 2015 23:32:11 +0000</pubDate>
+ <dc:creator>Lucas</dc:creator>
+ <guid isPermaLink="false">341 at https://www.psychojellyfish.com</guid>
+</item>
+<item>
+ <title>S2E1 - And We Are Back!</title>
+ <link>https://www.psychojellyfish.com/content/s2e1-and-we-are-back</link>
+ <description>&lt;div class=&quot;field field-name-field-show field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Show: &lt;/h3&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;&lt;a href=&quot;/lost-radio&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Lost Radio&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt; &lt;p&gt;&lt;a href=&quot;http://psychojellyfish.com/content/s2e1-and-we-are-back&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;media-image&quot; height=&quot;264&quot; width=&quot;612&quot; typeof=&quot;foaf:Image&quot; src=&quot;https://www.psychojellyfish.com/sites/default/files/AndWeAreBack_0.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ned returns to inform the crew of a terrible new foe on the horizon that is responsible for the destruction of the Zaptarian race. As the crew briefly contemplates this coming doom, Sean reveals his robotic wonder, which turns out to be a former US Secretary of State. Will he be the savior the crew needs to conquer the king of parodies? Tune in and find out!&lt;/p&gt;
+&lt;p&gt; Art by David Halstead&lt;/p&gt;
+&lt;p&gt;Additional sound effects courtesy of &lt;a href=&quot;http://www.freesound.org&quot;&gt;www.freesound.org&lt;/a&gt; contributors: datasoundsample/ skullsmasha/ xxqmanxx/ erikn2000/ patricklieberkind. &lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-episode-mp3 field-type-file field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;
+&lt;div class=&quot;jp-audio&quot;&gt;
+  &lt;div class=&quot;jp-type-playlist&quot;&gt;
+    &lt;div id=&quot;jplayer-node-339-field-episode-mp3-1557704861&quot; class=&quot;jp-jplayer&quot;&gt;&lt;/div&gt;
+    &lt;div id=&quot;jplayer-node-339-field-episode-mp3-1557704861_interface&quot; class=&quot;jp-interface&quot;&gt;
+            &lt;ul class=&quot;jp-controls&quot;&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-play&quot; tabindex=&quot;1&quot;&gt;play&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-pause&quot; tabindex=&quot;1&quot;&gt;pause&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-stop&quot; tabindex=&quot;1&quot;&gt;stop&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-mute&quot; tabindex=&quot;1&quot;&gt;mute&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;jp-unmute&quot; tabindex=&quot;1&quot;&gt;unmute&lt;/a&gt;&lt;/li&gt;
+              &lt;/ul&gt;
+      
+      &lt;div class=&quot;jp-progress&quot;&gt;
+        &lt;div class=&quot;jp-seek-bar&quot;&gt;
+          &lt;div class=&quot;jp-play-bar&quot;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;jp-volume-bar&quot;&gt;
+        &lt;div class=&quot;jp-volume-bar-value&quot;&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      
+      &lt;div class=&quot;jp-current-time&quot;&gt;&lt;/div&gt;
+      &lt;div class=&quot;jp-duration&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div id=&quot;jplayer-node-339-field-episode-mp3-1557704861_playlist&quot; class=&quot;jp-playlist&quot;&gt;
+              &lt;ul&gt;&lt;li class=&quot;first jp-playlist-first last jp-playlist-last&quot;&gt;&lt;a href=&quot;https://psychojellyfish.s3.amazonaws.com/s3fs-public/episodes/LR_S2E1_AndWeAreBack_Redux_Final.mp3&quot; id=&quot;jplayer-node-339-field-episode-mp3-1557704861_item_0&quot; tabindex=&quot;1&quot;&gt;Last Coin at the Arcade: And We Are Back!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;          &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 06 Apr 2015 22:57:08 +0000</pubDate>
+ <dc:creator>Lucas</dc:creator>
+ <guid isPermaLink="false">339 at https://www.psychojellyfish.com</guid>
+</item>
+</channel>
+</rss>

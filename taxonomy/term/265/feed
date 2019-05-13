@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://www.psychojellyfish.com"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Psycho Jellyfish - Star Wars: Inquisition</title>
+ <link>https://www.psychojellyfish.com/star-wars-inquisition</link>
+ <description> A rural family&#039;s patience is tested as the Jedi padawan they&#039;ve been hiding for years is putting their family at increasing risk. With their father dead, and their crops not selling, it&#039;s time to decide what to do. Evil comes knocking, and one Jedi finds you can&#039;t hide forever. A coward can&#039;t be a hero.
+ </description>
+ <language>en</language>
+<item>
+ <title>Star Wars: Inquisition (A Fan Film)</title>
+ <link>https://www.psychojellyfish.com/content/star-wars-inquisition-fan-film</link>
+ <description>&lt;div class=&quot;field field-name-field-show field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;h3 class=&quot;field-label&quot;&gt;Show: &lt;/h3&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot;&gt;&lt;a href=&quot;/star-wars-inquisition&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Star Wars: Inquisition&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt; &lt;p&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/UNBhZ-4Kla4&quot; frameborder=&quot;0&quot; width=&quot;560&quot; height=&quot;315&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+ &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 12 Dec 2016 03:03:52 +0000</pubDate>
+ <dc:creator>Lucas</dc:creator>
+ <guid isPermaLink="false">479 at https://www.psychojellyfish.com</guid>
+</item>
+</channel>
+</rss>
